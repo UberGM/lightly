@@ -1,0 +1,12 @@
+title: Lightly
+description: Simple Theme
+baseurl: ""
+url: "0.0.0.0"
+
+email: email@email.com
+twitter_username: tweeter
+github_username: gethub
+
+markdown: kramdown
+includeFooter: true
+highlighter: rouge
